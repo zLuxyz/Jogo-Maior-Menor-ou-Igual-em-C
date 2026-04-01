@@ -32,6 +32,7 @@ stdlib.h: Geração do número aleatório (rand).
 
 time.h: Semente para o aleatório baseada no tempo real (srand).
 
+
 💻 Exemplo de Execução
 
 	BEM VINDO AO MMI!!
@@ -49,6 +50,7 @@ Digite seu número (Entre 1 e 100)!
 Parabéns!! Você Venceu!
 Seu Número: 75
 Número da Máquina: 42
+
 
 🛠️ Como Compilar e Rodar
 Caso queira testar o código localmente, siga os passos abaixo:
