@@ -10,7 +10,10 @@ Estruturas de decisão complexas (if/else e switch case).
 
 Interação via terminal (scanf/printf).
 
-🕹️ Como Jogar
+x----------------------------------------------------------------x----------------------------------------------------------------x
+
+🕹️ Como Jogar:
+
 Escolha sua estratégia:
 
 M (Maior): Você vence se o seu número for maior que o da máquina.
@@ -23,7 +26,10 @@ Aposte seu número: Escolha um valor entre 1 e 100.
 
 O Confronto: A máquina revelará o número secreto e o vencedor será anunciado!
 
-🚀 Tecnologias Utilizadas
+x----------------------------------------------------------------x----------------------------------------------------------------x
+
+🚀 Tecnologias Utilizadas:
+
 Linguagem: C
 
 Bibliotecas: * stdio.h: Entradas e saídas.
@@ -32,6 +38,7 @@ stdlib.h: Geração do número aleatório (rand).
 
 time.h: Semente para o aleatório baseada no tempo real (srand).
 
+x----------------------------------------------------------------x----------------------------------------------------------------x
 
 💻 Exemplo de Execução
 
@@ -51,6 +58,7 @@ Parabéns!! Você Venceu!
 Seu Número: 75
 Número da Máquina: 42
 
+x----------------------------------------------------------------x----------------------------------------------------------------x
 
 🛠️ Como Compilar e Rodar
 Caso queira testar o código localmente, siga os passos abaixo:
@@ -67,3 +75,4 @@ Execute o programa:
 
 Bash
 ./mmi
+x----------------------------------------------------------------x----------------------------------------------------------------x
